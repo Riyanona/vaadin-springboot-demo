@@ -13,7 +13,7 @@ public class AppWidgetset implements WidgetsetInfo {
 
     @Override
     public String getWidgetsetName() {
-        return "wsd29650683b7918be53c275f93ab1336d";
+        return "ws3b2873f168e5e2c79a4c5bfc21dbfb06";
     }
 
     @Override
